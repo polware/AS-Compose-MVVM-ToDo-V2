@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">To-Do V2</string>
+    <string name="fab_button">Add Task</string>
+    <string name="search_action">Search Tasks</string>
+    <string name="delete_all_action">Delete All</string>
+    <string name="title_top_bar">Tasks</string>
+    <string name="search_bar_placeholder">Search task…</string>
+    <string name="text_empty_content">No Tasks Found!</string>
+    <string name="title_new_task_bar">Add Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="delete_task">Delete \'%1$s\'?</string>
+    <string name="delete_message_confirmation">Are you sure you want to delete \'%1$s\'?</string>
+    <string name="delete_all_tasks">Delete all tasks?</string>
+    <string name="delete_all_message_confirmation">Are you sure? This operation cannot be undone.</string>
+    <string name="app_logo">ToDo Logo</string>
+</resources>
